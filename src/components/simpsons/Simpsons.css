@@ -1,0 +1,16 @@
+.simpsonBackground{
+    background: #fec356;
+    margin: 0 5px;
+}
+
+.name{
+    margin-left: 10px;
+}
+
+.description{
+    margin-left: 5px;
+}
+
+.img{
+    height: 250px;
+}

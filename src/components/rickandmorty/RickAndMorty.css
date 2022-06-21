@@ -1,0 +1,31 @@
+.backGround{
+    background: darkseagreen;
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+    margin-bottom: 5px;
+}
+
+.wrap{
+    width: 500px;
+}
+
+.name{
+    margin-left: 20px;
+    height: 10%;
+}
+
+.description{
+    font-size: 20px;
+    height: 65%;
+    padding-left: 50px;
+    background: honeydew;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+img{
+    height: 200px;
+    margin: 10px;
+}
