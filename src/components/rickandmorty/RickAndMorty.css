@@ -1,4 +1,4 @@
-.backGround{
+.backGround {
     background: darkseagreen;
     display: flex;
     flex-direction: row-reverse;
@@ -6,16 +6,16 @@
     margin-bottom: 5px;
 }
 
-.wrap{
+.wrap {
     width: 500px;
 }
 
-.name{
+.name {
     margin-left: 20px;
     height: 10%;
 }
 
-.description{
+.description {
     font-size: 20px;
     height: 65%;
     padding-left: 50px;
@@ -25,7 +25,7 @@
     justify-content: space-around;
 }
 
-img{
+img {
     height: 200px;
     margin: 10px;
 }

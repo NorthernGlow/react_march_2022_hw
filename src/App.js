@@ -33,7 +33,7 @@ function App() {
                 img={'https://static.wikia.nocookie.net/simpsons/images/9/9d/Maggie_Simpson.png'}
             />*/}
             {/*Second task*/}
-
+            {/*
             <RickAndMorty
                 id = {'43'}
                 name = {'Big Morty'}
@@ -80,7 +80,7 @@ function App() {
                 species = {'Robot'}
                 gender = {'Male'}
                 image = {'https://rickandmortyapi.com/api/character/avatar/751.jpeg'}
-            />
+            />*/}
         </div>
     );
 }
